@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "eslint-plugin-html": "^4.0.1",
+    "firebase": "^4.8.2",
     "react": "16.2.0",
     "react-native": "0.52.0"
   },
